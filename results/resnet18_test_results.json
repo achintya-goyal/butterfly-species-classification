@@ -1,0 +1,8 @@
+{
+  "architecture": "ResNet18 pretrained on ImageNet",
+  "test_images": 500,
+  "test_accuracy": 0.964,
+  "macro_f1": 0.9636262626262626,
+  "weighted_f1": 0.9636262626262626,
+  "best_validation_accuracy": 0.968
+}

@@ -1,0 +1,7 @@
+{
+  "test_images": 500,
+  "num_classes": 100,
+  "accuracy": 0.97,
+  "macro_f1": 0.97,
+  "weighted_f1": 0.9700000000000001
+}
